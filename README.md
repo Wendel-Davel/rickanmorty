@@ -3,7 +3,7 @@ Este projeto foi desenvolvido como parte de um estudo para explorar o consumo de
 
 
 <div>
- <img alt="Capa1" src="./src/assets/Frame 1.png"/>
+ <img alt="Capa1" src="./src/assets/Frame 1.png"/><br>
  <img alt="Capa2" src="./src/assets/Frame 2.png"/>
 
 </div>
